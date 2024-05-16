@@ -576,6 +576,10 @@ header .member-actions{
 .events .rightcol{
     padding-left:100px
 }
+.events .centercol {
+    padding-left: 10px;
+    padding-right: 10px;
+}
 .events .time{
     font-size:13px;
     font-style:italic;
@@ -774,7 +778,7 @@ header .member-actions{
 }
 #map-content{
     /*margin-top:40px;*/
-    padding:50px 60px;
+    padding:50px 15px;
     background:#fff;
     -webkit-transition:opacity .5s,visibility .6s,margin-top .5s;
     transition:opacity .5s,visibility .6s,margin-top .5s
