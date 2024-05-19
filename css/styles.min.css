@@ -311,7 +311,7 @@ section .header{
     visibility:hidden;
     transition:all 300ms ease-in-out
 }
-.hero{
+/* .hero{
     background:url("../img/sfondo_sito.jpeg") center center;
     -webkit-background-size:cover;
     -moz-background-size:cover;
@@ -319,6 +319,15 @@ section .header{
     background-size:cover;
     position:relative;
     height:700px
+} */
+.hero{
+    background:url("../img/a9.jpg") center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    position:relative;
+    height:400px
 }
 .hero .down-arrow a{
     color:#fff
